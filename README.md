@@ -8,13 +8,19 @@ Welcome to my Data Science portfolio! This repository contains a collection of p
 
 ### 1️⃣ [Credit Risk Modeling](./Credit%20Risk)
 
-> A complete pipeline for credit risk scoring using logistic regression and XGBoost.
+> A complete pipeline for credit risk scoring using logistic regression.
 
 - Data preprocessing and feature engineering
 - Model training and evaluation
 - AUC/ROC analysis
 - Interpretability using SHAP values
 
+### 2️⃣ [IQuality Workshop](./IQuality%20Workshop)
+> Toy examples used in a workshop I delivered for the company IQuality.
+
+- Introduction to classification using CNN
+- Regression with MLP
+- Classification task with MLP
 ---
 
 ## 🛠️ Tools & Technologies
