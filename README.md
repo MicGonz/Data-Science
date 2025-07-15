@@ -4,12 +4,6 @@ Welcome to my Data Science portfolio! This repository contains a collection of p
 
 ---
 
-## 👨‍💻 About Me
-
-I am a Data Scientist with experience in Python, SQL, Machine Learning, and Natural Language Processing (NLP). My professional background includes modeling and validating credit risk models in the banking sector. I hold a Master’s degree in Data Science and am currently a PhD student specializing in statistical performance bounds in integrated communication and sensing networks.
-
----
-
 ## 🚀 Projects
 
 ### 1️⃣ [Credit Risk Modeling](./Credit%20Risk)
