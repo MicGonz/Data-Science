@@ -15,7 +15,7 @@ Welcome to my Data Science portfolio! This repository contains a collection of p
 - AUC/ROC analysis
 - Interpretability using SHAP values
 
-### 2️⃣ [IQuality Workshop](./IQuality%20Workshop)
+### 2️⃣ [IQuality Workshop](./Iquality%20Workshop/)
 > Toy examples used in a workshop I delivered for the company IQuality.
 
 - Introduction to classification using CNN
