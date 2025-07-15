@@ -12,7 +12,8 @@ I am a Data Scientist with experience in Python, SQL, Machine Learning, and Natu
 
 ## 🚀 Projects
 
-### 1️⃣ [Credit Risk Modeling](./Credit Risk)
+### 1️⃣ [Credit Risk Modeling](./Credit%20Risk)
+
 > A complete pipeline for credit risk scoring using logistic regression and XGBoost.
 
 - Data preprocessing and feature engineering
