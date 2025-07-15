@@ -20,37 +20,6 @@ I am a Data Scientist with experience in Python, SQL, Machine Learning, and Natu
 
 ---
 
-### 2️⃣ [Customer Segmentation](./CustomerSegmentation)
-> Unsupervised learning to identify customer groups.
-- K-means clustering
-- Dimensionality reduction with PCA
-- Visualization with seaborn and matplotlib
-
----
-
-### 3️⃣ [Sentiment Analysis on Social Media](./SentimentAnalysis)
-> NLP project classifying tweets into positive, neutral, or negative sentiment.
-- Text cleaning and preprocessing
-- Feature extraction with TF-IDF
-- Model training with Naive Bayes
-
----
-
-### 4️⃣ [Time Series Forecasting](./TimeSeriesForecasting)
-> Forecasting sales data with ARIMA and Prophet.
-- Data exploration and visualization
-- Stationarity checks and transformations
-- Model fitting and future predictions
-
----
-
-### 5️⃣ [Data Visualization Gallery](./DataVisualization)
-> A showcase of advanced matplotlib and plotly visualizations.
-- Interactive dashboards
-- Custom themes and storytelling with data
-
----
-
 ## 🛠️ Tools & Technologies
 
 - **Languages:** Python, SQL
@@ -64,9 +33,9 @@ I am a Data Scientist with experience in Python, SQL, Machine Learning, and Natu
 
 If you'd like to connect, collaborate, or learn more about my work:
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Website:** [Your Personal Site or Blog](https://yourwebsite.com)
+- **Email:** [your-email@example.com](mailto:mic.gonzaga46@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/michel-gonzaga-dos-santos-50b75a180)
+
 
 ---
 
