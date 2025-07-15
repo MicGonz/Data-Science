@@ -36,8 +36,8 @@ I am a Data Scientist with experience in Python, SQL, Machine Learning, and Natu
 
 If you'd like to connect, collaborate, or learn more about my work:
 
-- **Email:** [your-email@example.com](mailto:mic.gonzaga46@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/michel-gonzaga-dos-santos-50b75a180)
+- **Email:** [mic.gonzaga46@gmail.com](mailto:mic.gonzaga46@gmail.com)
+- **LinkedIn:** [Michel Gonzaga dos Santos](https://www.linkedin.com/in/michel-gonzaga-dos-santos-50b75a180)
 
 
 ---
