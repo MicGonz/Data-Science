@@ -14,9 +14,11 @@ I am a Data Scientist with experience in Python, SQL, Machine Learning, and Natu
 
 ### 1️⃣ [Credit Risk Modeling](./Credit Risk)
 > A complete pipeline for credit risk scoring using logistic regression and XGBoost.
-- Data preprocessing, feature engineering
+
+- Data preprocessing and feature engineering
 - Model training and evaluation
-- AUC/ROC analysis and interpretability with SHAP
+- AUC/ROC analysis
+- Interpretability using SHAP values
 
 ---
 
